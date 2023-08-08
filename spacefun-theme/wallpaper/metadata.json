@@ -1,0 +1,14 @@
+{
+    "KPlugin": {
+        "Name": "Space Fun",
+        "Name[fr]": "Amusement Spatial",
+        "Id": "SpaceFun",
+        "License": "GPLv2",
+        "Authors": [
+            {
+                "Name": "Valessio Brito",
+                "Email": "valessio@debianart.org"
+            }
+        ]
+    }
+}

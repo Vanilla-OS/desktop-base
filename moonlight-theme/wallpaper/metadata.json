@@ -1,0 +1,14 @@
+{
+    "KPlugin": {
+        "Name": "Moonlight",
+        "Name[fr]": "Clair de Lune",
+        "Id": "Moonlight",
+        "License": "GPLv2+",
+        "Authors": [
+            {
+                "Name": "Juliette Taka Belin",
+                "Email": "juliettetaka.belin@gmail.com"
+            }
+        ]
+    }
+}

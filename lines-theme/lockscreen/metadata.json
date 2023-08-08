@@ -1,0 +1,14 @@
+{
+    "KPlugin": {
+        "Name": "Lines Lock Screen",
+        "Name[fr]": "\u00c9cran de verrouillage pour Lignes",
+        "Id": "LinesLockScreen",
+        "License": "GPLv2+",
+        "Authors": [
+            {
+                "Name": "Juliette Taka Belin",
+                "Email": "juliettetaka.belin@gmail.com"
+            }
+        ]
+    }
+}

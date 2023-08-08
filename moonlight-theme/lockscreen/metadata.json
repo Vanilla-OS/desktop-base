@@ -1,0 +1,14 @@
+{
+    "KPlugin": {
+        "Name": "Moonlight Lock Screen",
+        "Name[fr]": "\u00c9cran de verrouillage pour Clair de Lune",
+        "Id": "MoonlightLockScreen",
+        "License": "GPLv2+",
+        "Authors": [
+            {
+                "Name": "Juliette Taka Belin",
+                "Email": "juliettetaka.belin@gmail.com"
+            }
+        ]
+    }
+}

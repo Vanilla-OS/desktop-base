@@ -1,0 +1,13 @@
+{
+    "KPlugin": {
+        "Name": "Homeworld",
+        "Id": "Homeworld",
+        "License": "GPLv2+",
+        "Authors": [
+            {
+                "Name": "Juliet Taka",
+                "Email": "juliettetaka.belin@gmail.com"
+            }
+        ]
+    }
+}

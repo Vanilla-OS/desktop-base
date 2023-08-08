@@ -1,0 +1,8 @@
+[Plymouth Theme]
+Name=Default theme for Debian 11.0 Buster (WIP)
+Description=A theme inspired by the Bauhaus movement
+ModuleName=script
+
+[script]
+ImageDir=/usr/share/plymouth/themes/homeworld
+ScriptFile=/usr/share/plymouth/themes/homeworld/homeworld.script

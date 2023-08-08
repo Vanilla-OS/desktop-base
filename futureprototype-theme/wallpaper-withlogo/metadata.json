@@ -1,0 +1,13 @@
+{
+    "KPlugin": {
+        "Name": "futurePrototype with Debian swirl",
+        "Id": "futurePrototype",
+        "License": "GPLv2+",
+        "Authors": [
+            {
+                "Name": "Alex Makas",
+                "Email": "radicalmonday@gmail.com"
+            }
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "KPlugin": {
+        "Name": "Joy",
+        "Name[fr]": "Joie",
+        "Id": "Joy",
+        "License": "GPLv2+",
+        "Authors": [
+            {
+                "Name": "Adrien Aubourg",
+                "Email": "adrien.aubourg@gmail.com"
+            }
+        ]
+    }
+}
