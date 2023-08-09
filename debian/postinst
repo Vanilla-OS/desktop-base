@@ -6,6 +6,7 @@ set -e
 
 if [ "$1" = "configure" ] || [ "$1" = "abort-upgrade" ] || [ "$1" = "abort-remove" ]; then
     # Vendor logo alternative
+    mkdir -p /usr/share/images/vendor-logos
     update-alternatives --install \
             /usr/share/images/vendor-logos \
             vendor-logos \
