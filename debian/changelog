@@ -1,0 +1,11 @@
+desktop-base (100.1) unstable; urgency=medium
+
+  * Create /usr/share/images/vendor-logos is not existent
+
+ -- Mateus Melchiades <matbme@duck.com>  Thu, 09 Aug 2023 11:52:00 -0300
+
+desktop-base (100.0) unstable; urgency=medium
+
+  * First version of the Vanilla OS desktop-base package
+
+ -- Mirko Brombin <send@mirko.pm>  Thu, 09 Aug 2023 14:32:00 +0300

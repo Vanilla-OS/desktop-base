@@ -1,0 +1,11 @@
+Package: desktop-base
+Version: 100.0
+Architecture: all
+Maintainer: Vanilla OS Contributors <info@vanillaos.org>
+Installed-Size: 307
+Depends: librsvg2-common
+Suggests: gnome
+Section: x11
+Priority: optional
+Homepage: https://github.com/Vanilla-OS/desktop-base
+Description: common files for the Vanilla OS GNOME
