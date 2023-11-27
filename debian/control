@@ -3,7 +3,6 @@ Section: x11
 Priority: optional
 Maintainer: Vanilla OS Contributors <info@vanillaos.org>
 Build-Depends: debhelper (>= 13),
-               inkscape,
                librsvg2-bin,
                optipng
 
