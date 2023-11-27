@@ -23,7 +23,7 @@ jobs:
         rm -r /run/host${{ runner.tool_cache }}
 
     - name: Install needed packages
-      run: apt update && apt install dpkg-dev build-essential debhelper inkscape librsvg2-bin optipng -y
+      run: apt update && apt install dpkg-dev build-essential debhelper librsvg2-bin optipng -y
 
     - name: Build debian package
       run: |
