@@ -6,7 +6,8 @@ set -e
 
 if [ "$1" = "configure" ] || [ "$1" = "abort-upgrade" ] || [ "$1" = "abort-remove" ]; then
     # Vendor logo alternative
-    mkdir -p /usr/share/images/vendor-logos
+    mkdir -p /usr/share/images/vendor-logo || true
+    echo "Setting up vendor-logo alternative"
     update-alternatives --install \
             /usr/share/images/vendor-logos \
             vendor-logos \
@@ -46,5 +47,6 @@ if [ "$1" = "configure" ] || [ "$1" = "abort-upgrade" ] || [ "$1" = "abort-remov
                 /usr/share/icons/desktop-base/256x256/emblems/emblem-vanilla-white.png \
             --slave /usr/share/icons/vendor/scalable/emblems/emblem-vendor-white.svg \
                 emblem-vendor-white-scalable \
-                /usr/share/icons/desktop-base/scalable/emblems/emblem-vanilla-white.svg
+                /usr/share/icons/desktop-base/scalable/emblems/emblem-vanilla-white.svg \
+            --force
 fi
